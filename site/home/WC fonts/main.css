@@ -1,0 +1,66 @@
+font-family: 'Shrikhand', cursive;
+font-family: 'Lobster', cursive;
+font-family: 'Fjalla One', sans-serif;
+font-family: 'Abril Fatface', cursive;
+font-family: 'Passion One', cursive;
+font-family: 'Archivo Black', sans-serif;
+font-family: 'Alfa Slab One', cursive;
+font-family: 'Teko', sans-serif;
+font-family: 'Rubik One', sans-serif;
+font-family: 'Bungee Shade', cursive;
+font-family: 'Gravitas One', cursive;
+font-family: 'Ubuntu Mono', monospace;
+
+.something{
+}
+
+.s {
+    font-family: 'Shrikhand';
+}
+.fjalla {
+    font-family: 'Fjalla One';
+}
+.abril {
+    font-family: 'Abril Fatface';
+}
+.passion {
+    font-family: 'Passion One';
+}
+.archivo {
+    font-family: 'Archivo Black';
+}
+.alfa {
+    font-family: 'Alfa Slab One';
+}
+.teko {
+    font-family: 'Teko';
+}
+
+.rubik {
+    font-family: 'Rubik One';
+}
+
+.bungee {
+    font-family: 'Bungee Shade';
+}
+
+img {
+    width: 100%;
+    border: 1px; black;
+}
+
+.gravitas {
+    font-family: 'Gravitas One';
+}
+
+.line {
+    background-color: darkgray;
+    height: 1px;
+    width: 100%;
+}
+
+h1 {
+    font-size: 3em;
+    color: black;
+    
+}
