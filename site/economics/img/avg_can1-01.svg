@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 18.1.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 792 612" enable-background="new 0 0 792 612" xml:space="preserve">
+<rect id="federal" x="313.7" y="125" width="165.9" height="31.2"/>
+<polygon id="sales" points="313.7,104.3 479.6,104.3 457.8,91.1 338.4,91.1 "/>
+<path fill="#DCDDDE" d="M339.5,91h117.2c0.6,0,1.1-0.5,1.1-1.1v-3.4c0-0.6-0.5-1.1-1.1-1.1H339.5c-0.6,0-1.1,0.5-1.1,1.1V90
+	C338.4,90.6,338.8,91,339.5,91z"/>
+<path id="state" d="M313.7,123.1h165.8c0,0,0.1,0,0.1-0.1v-16.9c0,0,0-0.1-0.1-0.1H313.7c0,0-0.1,0-0.1,0.1L313.7,123.1
+	C313.7,123.1,313.7,123.1,313.7,123.1z"/>
+<path fill="#DCDDDE" d="M320.8,526h152.5c0.6,0,1.1-0.5,1.1-1.1v-3.2c0-0.6-0.5-1.1-1.1-1.1H320.8c-0.6,0-1.1,0.5-1.1,1.1v3.2
+	C319.8,525.5,320.2,526,320.8,526z"/>
+<g id="revenue">
+	<rect x="313.7" y="158.1" width="165.9" height="357.5"/>
+	<polygon points="319.5,520.4 473.9,520.4 479.6,515.5 313.7,515.5 	"/>
+</g>
+<g id="sales-text" display="none">
+	<rect x="561.8" y="64" display="inline" fill="none" width="123.5" height="35"/>
+	
+		<text transform="matrix(1 0 0 1 563.4352 98.2953)" display="inline" fill="#8DC640" font-family="'HelveticaNeue'" font-size="48">$0.06</text>
+	<rect x="561.6" y="109" display="inline" fill="none" width="128.8" height="22.4"/>
+	
+		<text transform="matrix(1 0 0 1 563.3339 126.1118)" display="inline" fill="#231F20" font-family="'HelveticaNeue'" font-size="24">SALES TAX</text>
+</g>
+<g id="state-text" display="none">
+	<rect x="564.3" y="80.3" display="inline" fill="none" width="123.5" height="35"/>
+	
+		<text transform="matrix(1 0 0 1 565.9492 114.5632)" display="inline" fill="#8DC640" font-family="'HelveticaNeue'" font-size="48">$0.07</text>
+	<rect x="516.4" y="127.2" display="inline" fill="none" width="219.2" height="22.4"/>
+	
+		<text transform="matrix(1 0 0 1 541.0971 144.3796)" display="inline" fill="#231F20" font-family="'HelveticaNeue'" font-size="24">STATE LIQUOR </text>
+</g>
+<g id="federal-text" display="none">
+	<rect x="564.3" y="123.4" display="inline" fill="none" width="123.5" height="35"/>
+	
+		<text transform="matrix(1 0 0 1 565.9492 157.6616)" display="inline" fill="#8DC640" font-family="'HelveticaNeue'" font-size="48">$0.11</text>
+	<rect x="486.6" y="170.3" display="inline" fill="none" width="278.8" height="22.4"/>
+	
+		<text transform="matrix(1 0 0 1 499.7583 187.4781)" display="inline" fill="#231F20" font-family="'HelveticaNeue'" font-size="24">FEDERAL LIQUOR TAX</text>
+</g>
+<g id="revenue-text" display="none">
+	<rect x="564.3" y="302.1" display="inline" fill="none" width="123.5" height="35"/>
+	
+		<text transform="matrix(1 0 0 1 565.9492 336.3866)" display="inline" fill="#8DC640" font-family="'HelveticaNeue'" font-size="48">$1.26</text>
+	<rect x="486.6" y="349.1" display="inline" fill="none" width="278.8" height="22.4"/>
+	
+		<text transform="matrix(1 0 0 1 571.1216 366.2031)" display="inline" fill="#231F20" font-family="'HelveticaNeue'" font-size="24">REVENUE</text>
+</g>
+</svg>
