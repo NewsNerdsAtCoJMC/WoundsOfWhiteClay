@@ -432,8 +432,16 @@ ul.share-buttons .sr-only {
     padding: 0px;
     position: relative;
     width: 100%;
-    margin: 0 0 0 0;
+    margin: 0 0 2% 0;
     opacity: 1;
+}
+
+.teaser-sub {
+    text-align: center;
+    line-height: 1.5;
+    padding-bottom: 4%;
+    padding-top: 4%;
+    font-size: 19px;
 }
 
 .teaser-title {

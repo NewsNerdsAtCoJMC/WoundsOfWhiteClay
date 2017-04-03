@@ -588,21 +588,22 @@ ul.share-buttons .sr-only {
     width: 101%;
     left: -1px;
     height:auto;
-    background: black;
+    background: none;
 }
 
 .subhead {
-    color: white;
+    color: black;
     font-size: 20px;
     text-align: center;
-    padding: 3%;
-    line-height: 1.25;
-    margin: 10px;
-    text-transform:none;
+    padding: 5%;
+    line-height: 1.5;
+    text-transform: none;
+    text-decoration: none;
+    margin: 0px;
 }
 
 .row.bylines-container {
-    margin-top: 50px;
+    margin-top: 0px;
     margin-bottom: 0px;
 }
 
@@ -976,12 +977,26 @@ p {
     .intro {
         height: auto;
     }
-    .intro .intro-body .intro-text {
-        padding-top: 1%;
+    .intro .intro-body .brand-heading {
+        padding: 6%;
+        padding-left: 0px;
+        padding-right: 0px;
+        font-size: 2.4em;
+    }
+    
+    .subhead {
+        font-size: 1.2em;
+        padding: 40px;
+    }
+    
+    .byline {
+        font-size: 1.3em;
     }
     
     p {
         text-align: justify;
+    }
+    .deck {
     }
 }
 
@@ -1065,6 +1080,7 @@ p {
 
     .intro .intro-body .intro-text {
      text-shadow: none;
+        display: none;
     }
 
     .intro .intro-body .intro-text{
@@ -1082,9 +1098,6 @@ p {
         color: white;
         text-transform: uppercase;
     }
-    .deck {
-        display: none;
-    }
     .navbar {
         display: block;
     }
@@ -1101,6 +1114,7 @@ p {
 
     .intro .intro-body .intro-text {
      text-shadow: none;
+        display: none;
     }
 
     .intro .intro-body .intro-text{
@@ -1118,7 +1132,6 @@ p {
         text-transform: uppercase;
     }
     .deck {
-        display: none;
     }
 }
  
